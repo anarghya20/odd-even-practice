@@ -96,7 +96,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>App</mainClass>
+                            <mainClass>com.example.odd_even.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
